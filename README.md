@@ -98,3 +98,10 @@ model.predict(scaler.transform(X_test))
 ```
 model.predict(scaler.transform(my_X))
 ```
+
+### Ressources:
+- <a src="https://scikit-learn.org/">https://scikit-learn.org/</a>
+- <a src="https://leekwars.com/">https://leekwars.com/</a>
+- <a src="https://www.kaggle.com/datasets">https://www.kaggle.com/datasets</a>
+- <a src="https://www.data.gouv.fr/fr/">https://www.data.gouv.fr/fr/</a>
+- <a src="https://youtu.be/L_4BPjLBF4E?si=suqX8vQe00pNy0qO">https://youtu.be/L_4BPjLBF4E?si=suqX8vQe00pNy0qO</a>
