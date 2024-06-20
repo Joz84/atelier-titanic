@@ -1,5 +1,7 @@
 
 # Atelier Titanic
+## Support de cours
+<a href="https://docs.google.com/presentation/d/1-TguitlJAfuk4JfkYnf4p13JBUJCbcUd8m0q4-C6NNE/edit?usp=sharing">Lien vers le support</a>
 
 ## Recupération des bibliothèques et du Jeu de données
 
